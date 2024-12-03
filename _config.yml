@@ -1,8 +1,10 @@
-title: Penetration Tester Notes
+title: Penetration Tester Notizen
 description: Meine Notizen / Cheet Sheet von der Junior Penetration Tester Weiterbildung 
 theme: just-the-docs
 
-url: https://ffischbach.github.io
+url: https://ffischbach.github.io/jpt-notes
+
+aux_links_new_tab: true
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
