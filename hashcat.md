@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-#Hashcat
+# Hashcat
 
 Hashcat ist ein Tool zum Knacken von Passwörtern, das verschiedene Angriffsmodi und Hash-Typen unterstützt.
 
