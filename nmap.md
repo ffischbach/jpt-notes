@@ -109,23 +109,23 @@ nmap -T4 -A -v <IP-Adresse/Host>
 
 ### **Optionen für Zielangabe**
 
-- **Einzelne IP-Adresse:**
+#### - **Einzelne IP-Adresse:**
   ```bash
   nmap 192.168.1.1
   ```
-- **Domain:**
+#### - **Domain:**
   ```bash
   nmap example.com
   ```
-- **IP-Bereich:**
+#### - **IP-Bereich:**
   ```bash
   nmap 192.168.1.1-100
   ```
-- **Subnetz:**
+#### - **Subnetz:**
   ```bash
   nmap 192.168.1.0/24
   ```
-- **Liste aus Datei:**
+#### - **Liste aus Datei:**
   ```bash
   nmap -iL <Dateipfad>
   ```
