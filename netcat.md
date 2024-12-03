@@ -12,10 +12,6 @@ nav_order: 6
 - 3
 {:toc}
 
-<script type="text/javascript">
-$('#toc').toc({ headers: 'h1, h2, h3' });
-</script>
-
 # Netcat
 
 Netcat ist ein vielseitiges Tool zur Arbeit mit TCP- und UDP-Verbindungen. Es wird oft als "Schweizer Taschenmesser" für Netzwerke bezeichnet und eignet sich für Port-Scans, Datenübertragung, Debugging und einfache Server/Client-Kommunikation.
