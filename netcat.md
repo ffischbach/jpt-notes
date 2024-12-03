@@ -4,6 +4,14 @@ layout: default
 nav_order: 6
 ---
 
+#### Table of Contents
+{: .no_toc .text-delta }
+
+- 1
+- 2
+- 3
+{:toc}
+
 # Netcat
 
 Netcat ist ein vielseitiges Tool zur Arbeit mit TCP- und UDP-Verbindungen. Es wird oft als "Schweizer Taschenmesser" für Netzwerke bezeichnet und eignet sich für Port-Scans, Datenübertragung, Debugging und einfache Server/Client-Kommunikation.
