@@ -4,6 +4,14 @@ layout: default
 nav_order: 2
 ---
 
+#### Table of Contents
+{: .no_toc .text-delta }
+
+- 1
+- 2
+- 3
+{:toc}
+
 # Dig (Domain Information Groper)
 Dig ist ein flexibles und leistungsstarkes DNS-Abfragetool, das Informationen über DNS-Einträge (z. B. A-, MX-, TXT-, SOA- und NS-Records) abruft und analysiert. Es eignet sich ideal für Netzwerkdiagnosen und das Debugging von DNS-Problemen.
 
