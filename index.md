@@ -29,9 +29,9 @@ nav_order: 1
   
 - **[[Dig (Domain Information Groper)]]** -> Dig ist ein flexibles und leistungsstarkes DNS-Abfragetool, das Informationen über DNS-Einträge (z. B. A-, MX-, TXT-, SOA- und NS-Records) abruft und analysiert. Es eignet sich ideal für Netzwerkdiagnosen und das Debugging von DNS-Problemen.
   
-- **[[Netcat]]** -> Netcat ist ein vielseitiges Tool zur Arbeit mit TCP- und UDP-Verbindungen. Es wird oft als "Schweizer Taschenmesser" für Netzwerke bezeichnet und eignet sich für Port-Scans, Datenübertragung, Debugging und einfache Server/Client-Kommunikation.
+- **[Netcat](https://ffischbach.github.io/jpt-notes/netcat.html#netcat)** -> Netcat ist ein vielseitiges Tool zur Arbeit mit TCP- und UDP-Verbindungen. Es wird oft als "Schweizer Taschenmesser" für Netzwerke bezeichnet und eignet sich für Port-Scans, Datenübertragung, Debugging und einfache Server/Client-Kommunikation.
   
-- **[[Nmap (Network Mapper)]]** -> Nmap ist ein mächtiges Open-Source-Tool für Netzwerkerkennung und Sicherheitsaudits. Es wird verwendet, um Netzwerke zu scannen, offene Ports und Dienste zu identifizieren sowie Betriebssysteme und Schwachstellen zu erkennen.
+- **[Nmap (Network Mapper)](https://ffischbach.github.io/jpt-notes/nmap.html#nmap)** -> Nmap ist ein mächtiges Open-Source-Tool für Netzwerkerkennung und Sicherheitsaudits. Es wird verwendet, um Netzwerke zu scannen, offene Ports und Dienste zu identifizieren sowie Betriebssysteme und Schwachstellen zu erkennen.
   
 - **[[GoBuster]]** -> GoBuster ist ein Tool zum Directory- und DNS-Fuzzing. Es wird hauptsächlich verwendet, um versteckte Verzeichnisse, Dateien und Subdomains auf Webservern zu entdecken. Es ist ein schnelles, command-line-basiertes Tool, das auf Bruteforce-Techniken basiert.
 
