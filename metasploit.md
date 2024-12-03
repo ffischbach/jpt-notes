@@ -4,6 +4,14 @@ layout: default
 nav_order: 5
 ---
 
+#### Table of Contents
+{: .no_toc .text-delta }
+
+- 1
+- 2
+- 3
+{:toc}
+
 # Metasploit Framework
 
 Metasploit ist ein leistungsstarkes Open-Source-Framework für Penetration Testing und Exploits. Es wird verwendet, um Schwachstellen zu identifizieren, Exploits auszuführen und Post-Exploitation-Aktivitäten durchzuführen.
