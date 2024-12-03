@@ -4,6 +4,14 @@ layout: default
 nav_order: 3
 ---
 
+#### Table of Contents
+{: .no_toc .text-delta }
+
+- 1
+- 2
+- 3
+{:toc}
+
 # GoBuster
 
 GoBuster ist ein Tool zum Directory- und DNS-Fuzzing. Es wird hauptsächlich verwendet, um versteckte Verzeichnisse, Dateien und Subdomains auf Webservern zu entdecken. Es ist ein schnelles, command-line-basiertes Tool, das auf Bruteforce-Techniken basiert.
