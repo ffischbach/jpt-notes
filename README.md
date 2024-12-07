@@ -7,6 +7,10 @@ Diese Website dient als praktische Referenz für **Security-Enthusiasten** und *
 
 ---
 
+### [✈️ Zur Webseite -> https://ffischbach.github.io/jpt-notes](https://ffischbach.github.io/jpt-notes)
+
+---
+
 ## 🌟 Features
 
 - **📝 Strukturierte Dokumentation:** Alle wichtigen Themen des Penetration Testings.
