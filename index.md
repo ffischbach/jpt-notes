@@ -21,6 +21,8 @@ nav_order: 1
 - **[Netcraft](https://www.netcraft.com/tools/)**  
   Analysiere Domains, SSL-Zertifikate und Serverinformationen.
 
+- **[Portquiz](http://portquiz.net/)**
+  Testen von Firewall Beschränkungen auf Ports 
 ---
 
 # **Wichtige Terminal-Tools**

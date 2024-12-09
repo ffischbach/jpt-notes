@@ -7,6 +7,10 @@ Diese Website dient als praktische Referenz für **Security-Enthusiasten** und *
 
 ---
 
+### Das Pentest CLI Toolkit findet ihr [hier](toolkit/README.md)
+
+---
+
 ### [✈️ Zur Webseite -> https://ffischbach.github.io/jpt-notes](https://ffischbach.github.io/jpt-notes)
 
 ---
