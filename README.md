@@ -7,7 +7,7 @@ Diese Website dient als praktische Referenz für **Security-Enthusiasten** und *
 
 ---
 
-### Das Pentest CLI Toolkit findet ihr [hier](toolkit/README.md)
+### Das Pentest CLI Toolkit findet ihr [hier](toolkit)
 
 ---
 
